@@ -1,0 +1,14 @@
+#myform{
+    font-size: 20;
+    text-align: center;
+    margin: 12px;
+    box-sizing: border-box;
+}
+#h1{
+    font-size: 30;
+    text-align: center;
+
+}
+#body{
+    background-color: beige;
+}
